@@ -80,7 +80,6 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 
 
-
 ---
 
 ## UX Designer
